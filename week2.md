@@ -146,6 +146,17 @@
 
 퀘스트 선택 이유 : 학습해야하는 양이 방대할 때, 흐름을 잡기 어려워 하는 편이라, 릴레이 프로젝트를 기회로 AI에게 도움을 받아보고 싶었습니다 !
 
+<details>
+<summary><b> 퀘스트 3 수행</b></summary>
+<div markdown="1">
+
+![퀘스트 3 진행](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fcvun9h%2FbtsPEPt21PJ%2FAAAAAAAAAAAAAAAAAAAAAJHjlkdDCxn-XzsI9W_IHLOZj78zfCC40fQS5P2N-9Ra%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1756652399%26allow_ip%3D%26allow_referer%3D%26signature%3DCVrvuHhZeM2JqWgz3i8f%252Ftg6oxY%253D)
+
+</div>
+</details>
+
+---
+
 ### 🔄 4. 나와 정반대 MBTI는 내 감정을 어떻게 표현할까? - `K023_조정현`
 
 퀘스트 선택 이유 : 정반대 MBTI가 어떻게 표현하는 것을 납득할 지는 모르겠지만, 사고를 넓히기 위해서 선택했습니다.
