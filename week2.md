@@ -161,6 +161,20 @@
 
 퀘스트 선택 이유 : 정반대 MBTI가 어떻게 표현하는 것을 납득할 지는 모르겠지만, 사고를 넓히기 위해서 선택했습니다.
 
+#### 프롬프트
+```
+나 어제 엄청 무기력하고 아무것도 하기 싫은데 해야될 일은 있고 그랬어. 
+답답하기도 하고 짜증도 나고 그랬던것 같아.
+
+내 MBTI는 INTJ인데 나랑 정반대 성향의 사람은 이 감정을 어떻게 말했을까?
+```
+
+#### 답변
+<img src="https://postfiles.pstatic.net/MjAyNTA4MDFfMTkz/MDAxNzU0MDE2NDUxOTYz.6UurhrJiLFmcy2deVXT4GVvNuADkiuGoKFz-UXIz66gg.1eGRAIlFZlkltAVvmGPXzG1IHCv0xysaCejhIZrikgsg.PNG/image.png?type=w966" alt="" width="800"/>
+
+#### 후기
+너무 무게를 짊어지고 살지 말고, 책임감을 좀 내려놓는 자세를 가져도 좋을 것 같습니다.
+
 ### 1. 🧠 감성 기반 코드 플레이리스트 - `J057_김용준`
 
 퀘스트 선택 이유: 평소 음악 듣는 것을 즐기는데 내가 좋아하는 것과 미션을 연결지으면 미션이 더 기억에 남을 것 같고 미션 수행 중 힘든 점들을 음악을 통해 힐링할 수 있을 것 같아서 해당 퀘스트를 선택했다.
