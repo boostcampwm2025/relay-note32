@@ -150,6 +150,10 @@
 <summary><b> 퀘스트 3 수행</b></summary>
 <div markdown="1">
 
+#### 간단한 후기 !
+여태껏 체크포인트를 작성하거나, 설계를 진행하며 이렇게 단계를 명확하게 구분해놓고 시작했던 경험이 없습니다. 사실 이번에도 퀘스트를 미션 후에 진행하여 실제로 적용해보지는 못했지만, 제가 활동했던 것과 유사한 사이클이 나와서 놀랐습니다.
+혼자서의 진행이 너무 막막할 때에는 이런 식으로 큰 단계를 구분지어 활동하는 것도 AI를 학습으로 활용하는 좋은 방법 중 하나인 것 같습니다.
+
 ![퀘스트 3 진행](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fcvun9h%2FbtsPEPt21PJ%2FAAAAAAAAAAAAAAAAAAAAAJHjlkdDCxn-XzsI9W_IHLOZj78zfCC40fQS5P2N-9Ra%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1756652399%26allow_ip%3D%26allow_referer%3D%26signature%3DCVrvuHhZeM2JqWgz3i8f%252Ftg6oxY%253D)
 
 </div>
