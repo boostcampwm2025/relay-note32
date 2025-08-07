@@ -189,3 +189,66 @@ AI의 추천 음악을 들으며 학습 속에서 리프레시도 하며 몰입�
 
 🔥🔥선택한 이유 : 평소에 새로운 노래를 듣는 것을 좋아하는데 미션을 진행하면서 노래를 틀어놓기만하고 들은 적이 없는 것 같다.
 그래서 이번 기회에 내가 좋아하던 노래들이 뭔가 생각해보고 추천을 받아서 들어보면 좋을 것 같아서 선택하게 되었다.
+
+<details>
+<summary>결과</summary>
+
+- AI가 추천하는 노래는 다 이상하고 별로일거라고 생각했는데 생각보다 너무 잘 찾아줘서 좋았다.
+<details>
+<summary>1일차 프롬포트 : pink sweat나 HONNE같은 R&B 스타일의 곡을 추천해줘 강렬한 분위기보다 부드럽고 슬쩍 기분 좋아지는 그런 노래들이 좋아</summary>
+    
+```
+Bruno Major – Nothing
+Tom Misch – It Runs Through Me (feat. De La Soul)
+Daniel Caesar – Japanese Denim
+RINI – My Favourite Clothes
+Mac Ayres – Get to You Again
+Leon Bridges – Beyond
+Keshi – 2 Soon
+Alina Baraz – Electric (feat. Khalid)
+Phum Viphurit – Lover Boy
+Arlo Parks – Cola
+```
+    Arlo Parks라는 가수를 처음 알게됐는데 노래가 다 마음에 들어서 너무 좋았다.
+</details>
+
+<details>
+<summary>2일차 프롬포트 : 다 필요없고 신나는 노래 추천해줘</summary>
+    
+```
+Dua Lipa – Don’t Start Now
+Bruno Mars – Uptown Funk
+Black Eyed Peas – I Gotta Feeling
+Katy Perry – Roar
+Pharrell Williams – Happy
+BTS – Dynamite
+Lady Gaga – Poker Face
+Mark Ronson ft. Amy Winehouse – Valerie
+Michael Jackson – Billie Jean
+Calvin Harris – Feel So Close
+```
+    확실히 가수나 다른 정보를 안주니 급 올드해지는 기분이 들지만 이것대로 맛이 있다.
+</details>
+
+<details>
+<summary>
+3일차 프롬포트 : 카페가긴 귀찮은데 카페 온거같은 느낌의 노래 추천해줘
+카페 분위기는 아침7시 동해바다에서 제일 일찍 연 카페에 가서 혼자 바다 보는 느낌으로
+</summary>
+
+```
+Cigarettes After Sex – Apocalypse
+Lianne La Havas – Paper Thin
+José González – Heartbeats
+Norah Jones – Sunrise
+Iron & Wine – Flightless Bird, American Mouth
+Tom Misch – South of the River
+Kina – Get You The Moon (feat. Snow)
+Rhye – Open
+Sufjan Stevens – Mystery of Love
+Ben Howard – Old Pine
+```
+
+Heartbeats의 분위기가 참 좋았다. 
+</details>
+</details>
